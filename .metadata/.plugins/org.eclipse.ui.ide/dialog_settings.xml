@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\孙卓\Desktop\11\WuLiu"/>
+		<item value="C:\Users\孙卓\Desktop\java-sdk-master"/>
+		<item value="E:\github\Douban-Java-SDK-OAuth2-origin"/>
+		<item value="C:\Users\孙卓\Desktop\JavaWeb-Regist-and-Login-master\LoginRegist2"/>
+		<item value="C:\Users\孙卓\Desktop\JspViewListDemo"/>
+		<item value="E:\JavaWebworkspace\jsp部分的课堂源代码\CookieDemo1"/>
+		<item value="C:\Users\孙卓\Desktop\JavaWEB-master\Spring-Boot-Demo"/>
+		<item value="E:\JavaWebworkspace\jsp部分的课堂源代码\JspLoginDemo"/>
+		<item value="E:\JavaWebworkspace\jsp部分的课堂源代码\MyFirstWebApp"/>
+	</list>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="119" key="DIALOG_X_ORIGIN"/>
+		<item value="269" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
